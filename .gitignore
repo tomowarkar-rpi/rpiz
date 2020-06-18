@@ -1,0 +1,9 @@
+.cache/*
+.bash_history
+.bash_logout
+.gitconfig
+.profile
+.viminfo
+.local/*
+.ssh/*
+.selected_editor
