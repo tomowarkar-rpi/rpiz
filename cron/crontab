@@ -1,0 +1,3 @@
+@reboot streamlit run ~/rpizlocal/app.py
+
+0 */1 * * * bash -lc 'sh ~/cron/wifi.sh && python3 ~/rpizlocal/wifi_img.py' 

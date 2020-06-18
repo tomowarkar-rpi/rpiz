@@ -7,3 +7,6 @@
 .local/*
 .ssh/*
 .selected_editor
+__pycache__
+.python_history
+assets/*
